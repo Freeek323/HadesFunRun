@@ -1,0 +1,55 @@
+Created by Freeek (Twitter)
+
+~~~~~~~~~~~~~~~ v1.1
+
+Updates
+- Can choose to play a multi weapon run, where all randomisers stay the same but # infernal arms are listed.
+- Rule randomiser, where you have to play it in a specific way (like dash only, etc)
+- Automated removal of mirror of night selections if Routine Inspection heat is selected.
+- 'Game choice' menu when loading the program, as well as a quick start selections
+- If Routine Inspection is chosen by the randomiser, the mirror of night in the result screen will hide the options you don't need to change, and even have a small message (can see it in the screenshot above).
+- The Pacts of Punishment are in order to the game, and if one isn't selected it shows the blank space, making it much easier visually to match your game too it.
+- The 'enter to run randomiser again' is instantaneous with the exact settings you've already selected.
+- Multi weapon works too. If you choose not to play with a specific weapon, you'll get the option to ask how long you want the multi-weapon run to be.
+
+23 Rules added.
+
+ I am Speed: Dash only, no weapon use at all
+ Ka-Pow!: Attack only, no Special or Casting allowed. Dash is allowed but NO upgrades are permitted
+ But Mum said I was!: Special only, no Attack or Casting allowed. Dash is allowed but NO upgrades are permitted
+ Hogwarts: Cast only, no Attack or Special allowed. Dash is allowed but NO upgrades are permitted
+ Concrete Shoes: No Dashing! Attack, Special and Cast allowed, but Dashing is not!
+ Free Bird: You must visit all 5 wings in the Temple Of Styx
+ Minor Inconvenience: You must kill Theseus before Asterius
+ My Precious: Your Obols counter must show $1000+ at some point during the run, instant loss if you get to Final Boss and never hit $1000
+ All Nail, no Strike: You are not allowed to gain any Hammer upgrades
+ Favouritism: All boons must be from the same god (you must sell asap if forced to gain another)
+ The Man with the Green Cap: You must destroy all pots in each visited chamber
+ Heartless: You may not increase your max life on purpose. (This includes letting Thanatos win if visited)
+ The Purge: You must sell all items everytime you visit a Pool of Purging
+ Fire Sale: You must buy all items from Wells of Charon, in order top down
+ Limited Love: You are only allowed one boon from each god (If you are forced to take anymore, you must sell them)
+ On your Own: Not allowed to use Companions or Calls
+ External Input: Player's must choose boons for eachother when they are presented (Screen Sharing Heavily Recommended)
+ Swap it up: Swap to the opposite control system that you usually use (MKB / Controller) (If playing on switch, Swap Dpad/Joystick
+ Poor Intent: You must avoid all means of earning $ Obols
+ Gold Digger: You are not allowed to buy anything (Except the Diamond/Blood in the final Charon Shop)
+ Das alot: Instant win if you hit $2000+ Obols
+ Boss Run: All players enter each Boss at the same time. Whoever kills a boss first gets a point, Most points at the end of the final boss wins. Tiebreaker is who had the least boons
+ God Giveth, God taketh away: If you defeat a boss first, you must force the other players to sell a boon of your choosing. All players must wait in the Fountain rooms before proceeding to the next floors together
+
+~~~~~~~~~~~~~~~~   v1.0
+
+Currently randomised things- 
+- Mirror of Night,  Infernal Arm and aspect, companions, keepsakes on a per floor basis, heat level.
+
+Input customisation
+- you can toggle if you want to use heat.
+-if heat is enabled you can choose a maximum and minimum heat level.
+- you can limit the infernal arm randomisation to be just about a single weapon (eg; you want to play with coronacht, but the aspect is still randomised).
+- you can enable/disable the starting keepsake (for Tartarus) to be one of the god keepsakes so that everyone starts with the same boon-type. 
+
+Current QOL measures
+- the chosen abilities in the Mirror of Night will display as their green/red states like in the game, making the selection much easier.
+- Fail-safes if you miss type in any field
+- Quick restart with the same settings
