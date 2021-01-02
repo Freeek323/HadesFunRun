@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HadesFunRun", "HadesFunRun\HadesFunRun.csproj", "{C9C852BD-49D8-4525-861A-4430D3D6B4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Test|Any CPU = Test|Any CPU
+		Test|x64 = Test|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Debug|x64.ActiveCfg = Debug|x64
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Debug|x64.Build.0 = Debug|x64
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Release|x64.ActiveCfg = Release|x64
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Release|x64.Build.0 = Release|x64
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Test|Any CPU.Build.0 = Test|Any CPU
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Test|x64.ActiveCfg = Test|x64
+		{C9C852BD-49D8-4525-861A-4430D3D6B4FD}.Test|x64.Build.0 = Test|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41902C7F-C681-41C1-94C6-86D160D6E983}
+	EndGlobalSection
+EndGlobal
